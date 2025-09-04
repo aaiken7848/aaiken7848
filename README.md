@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **aaiken7848/aaiken7848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hi, my name is Ava Aiken
+- I'm a senior at San Diego State University studying Computer Engineering and Mathematics, focusing on Embedded Systems and AI/ML
+- I just finished a summer internship at NASA's Johnson Space Center, where I was on a multimedia team and used Javascript to develop advanced infographics in Adobe After Effects
+- I'm looking to work on projects that help me develop my skills in software engineering
