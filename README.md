@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - Hi, my name is Ava Aiken
-- I'm a senior at San Diego State University studying Computer Engineering and Mathematics, focusing on Embedded Systems and AI/ML
-- I just finished a summer internship at NASA's Johnson Space Center, where I was on a multimedia team and used Javascript to develop advanced infographics in Adobe After Effects
+- I'm a masters student at San Diego State University studying Computer Engineering, focusing on Robotics, web development and AI/ML
 - I'm looking to work on projects that help me develop my skills in software engineering
